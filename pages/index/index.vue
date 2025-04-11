@@ -33,7 +33,7 @@ const componentList = ref([
 		name: '拖拽实现案例',
 		icon: '🔄',
 		description: '兼容h5，小程序端的拖拽实现例子',
-		path: '/pages/components/basic/index'
+		path: '/pages/components/dragSort/dragSort'
 	},
 	{
 		name: '表单组件',

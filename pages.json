@@ -5,6 +5,13 @@
 			"style": {
 				"navigationBarTitleText": "commonComponent"
 			}
+		},
+		{
+			"path" : "pages/components/dragSort/dragSort",
+			"style" : 
+			{
+				"navigationBarTitleText" : "拖拽排序"
+			}
 		}
 	
 	],
