@@ -1,0 +1,12 @@
+{
+  "name": "uniappcomponents",
+  "version": "1.0.0",
+  "description": "uni常用组件",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
